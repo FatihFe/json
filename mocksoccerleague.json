@@ -1,13 +1,29 @@
 {
   "weeks": [
     {
-      "match1": "Çaykur Rizespor 1-2 Fenerbahçe İstanbul",
-      "match2": "Fatih Karagümrük 3-0 Yeni Malatyaspor",
+      "week": "Week 1",
+      "match1": "MEDİPOL BAŞAKŞEHİR FK	1 - 0	BURSASPOR",
+      "match2": "GÖZTEPE A.Ş.	2 - 2	FENERBAHÇE A.Ş.",
+      "match3": "GENÇLERBİRLİĞİ	1 - 1	KARDEMİR KARABÜKSPOR",
+      "match4": "ALANYASPOR	1 - 3	KASIMPAŞA A.Ş.",
+      "match5": "AKHİSAR BELEDİYE GENÇLİK VE SPOR	1 - 0	DEMİR GRUP SİVASSPOR",
+      "match6": "BEŞİKTAŞ A.Ş.	2 - 0	ANTALYASPOR A.Ş.",
+      "match7": "TRABZONSPOR A.Ş.	2 - 1	ATİKER KONYASPOR",
+      "match8": "EVKUR YENİ MALATYASPOR	3 - 1	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match9": "GALATASARAY A.Ş.	4 - 1	KAYSERİSPOR",
       "id": 1
     },
     {
-      "match1": "Yeni Malatyaspor 1-1 Göztepe İzmir",
-      "match2": "Gençlerbirliği Ankara SK 0-0 Konyaspor",
+      "week": "Week 2",
+      "match1": "KASIMPAŞA A.Ş.	2 - 2	BEŞİKTAŞ A.Ş.",
+      "match2": "BURSASPOR	3 - 2	ALANYASPOR",
+      "match3": "OSMANLISPOR FUTBOL KULÜBÜ	1 - 3	GALATASARAY A.Ş.",
+      "match4": "KARDEMİR KARABÜKSPOR	3 - 1	MEDİPOL BAŞAKŞEHİR FK",
+      "match5": "DEMİR GRUP SİVASSPOR	2 - 0	EVKUR YENİ MALATYASPOR",
+      "match6": "KAYSERİSPOR	1 - 0	GÖZTEPE A.Ş.",
+      "match7": "FENERBAHÇE A.Ş.	2 - 2	TRABZONSPOR A.Ş.",
+      "match8": "ANTALYASPOR A.Ş.	2 - 2	AKHİSAR BELEDİYE GENÇLİK VE SPOR",
+      "match9": "ATİKER KONYASPOR	3 - 0	GENÇLERBİRLİĞİ",
       "id": 2
     },
     {
