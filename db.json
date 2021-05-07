@@ -1,20 +1,20 @@
 {
   "contacts": [
     {
-      "name": "Animesh Roy",
-      "phone": "8402815702",
+      "match1": "Fenerbahçe",
+      "match2": "Galatasaray",
     },
     {
-      "name": "Aakash Choudhury",
-      "phone": "9854988238",
+      "match1": "Aakash Choudhury",
+      "match2": "9854988238",
     },
     {
-      "name": "Arun Dey",
-      "phone": "9810153260",
+      "match1": "Arun Dey",
+      "match2": "9810153260",
     },
     {
-      "name": "Vikash Choudhury",
-      "phone": "9101909225",
+      "match1": "Vikash Choudhury",
+      "match2": "9101909225",
     },
     {
       "name": "Gaurav Gupta",
