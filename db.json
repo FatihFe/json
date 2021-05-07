@@ -1,20 +1,20 @@
 {
   "contacts": [
     {
-      "match1": "Fenerbahçe",
-      "match2": "Galatasaray",
+      "firstmatch": "Fenerbahçe",
+      "secondmatch": "Galatasaray",
     },
     {
-      "match1": "Aakash Choudhury",
-      "match2": "9854988238",
+      "firstmatch": "Aakash Choudhury",
+      "secondmatch": "9854988238",
     },
     {
-      "match1": "Arun Dey",
-      "match2": "9810153260",
+      "firstmatch": "Arun Dey",
+      "secondmatch": "9810153260",
     },
     {
-      "match1": "Vikash Choudhury",
-      "match2": "9101909225",
+      "firstmatch": "Vikash Choudhury",
+      "secondmatch": "9101909225",
     },
     {
       "name": "Gaurav Gupta",
