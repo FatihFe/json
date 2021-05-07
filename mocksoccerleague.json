@@ -27,13 +27,29 @@
       "id": 2
     },
     {
-      "name": "Arun Dey",
-      "phone": "9810153260",
+      "week": "Week 3",
+      "match1": "GALATASARAY A.Ş.	3 - 0	DEMİR GRUP SİVASSPOR",
+      "match2": "AYTEMİZ ALANYASPOR	1 - 1	KARDEMİR KARABÜKSPOR",
+      "match3": "EVKUR YENİ MALATYASPOR	1 - 1	ANTALYASPOR A.Ş.",
+      "match4": "KAYSERİSPOR	2 - 2	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match5": "GÖZTEPE A.Ş.	3 - 2	TRABZONSPOR A.Ş.",
+      "match6": "BEŞİKTAŞ A.Ş.	2 - 1	BURSASPOR",
+      "match7": "MEDİPOL BAŞAKŞEHİR FK	2 - 1	ATİKER KONYASPOR",
+      "match8": "GENÇLERBİRLİĞİ	1 - 2	FENERBAHÇE A.Ş.",
+      "match9": "AKHİSAR BELEDİYE GENÇLİK VE SPOR	2 - 1	KASIMPAŞA A.Ş.",
       "id": 3
     },
     {
-      "name": "Vikash Choudhury",
-      "phone": "9101909225",
+      "week": "Week 4",
+      "match1": "ATİKER KONYASPOR	0 - 2	AYTEMİZ ALANYASPOR",
+      "match2": "DEMİR GRUP SİVASSPOR	0 - 2	KAYSERİSPOR",
+      "match3": "KARDEMİR KARABÜKSPOR	0 - 1	BEŞİKTAŞ A.Ş.",
+      "match4": "FENERBAHÇE A.Ş.	2 - 3	MEDİPOL BAŞAKŞEHİR FK",
+      "match5": "OSMANLISPOR FUTBOL KULÜBÜ	0 - 2	GÖZTEPE A.Ş.",
+      "match6": "TRABZONSPOR A.Ş.	3 - 1	GENÇLERBİRLİĞİ",
+      "match7": "ANTALYASPOR A.Ş.	1 - 1	GALATASARAY A.Ş.",
+      "match8": "BURSASPOR	3 - 0	TELESET MOBİLYA AKHİSARSPOR",
+      "match9": "KASIMPAŞA A.Ş.	3 - 2	EVKUR YENİ MALATYASPOR",
       "id": 4
     },
     {
