@@ -1,8 +1,8 @@
 {
-  "contacts": [
+  "weeks": [
     {
-      "name": "Fenerbahce 1-0 Besiktas",
-      "phone": "8402815702",
+      "match1": "Çaykur Rizespor 1-2 Fenerbahçe İstanbul",
+      "match2": "8402815702",
       "id": 1
     },
     {
