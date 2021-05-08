@@ -1,0 +1,24 @@
+{
+  "teams": [
+    {
+      "team1": "MEasdOL BAŞAKŞEHİR FK	1 - 0	BURSASPOR",
+      "team2": "GÖZasdadTEPE A.Ş.	2 - 2	FEsdaHÇE A.Ş.",
+      "id": 1
+    },
+    {
+      "team1": "adasdOL BAŞAKŞEHİR FK	1 - 0	BURSASPOR",
+      "team2": "GÖasdasdA.Ş.	2 - 2	FENERBAHÇE A.Ş.",
+      "id": 2
+    },
+    {
+     "team1": "MEadadsŞEHİR FK	1 - 0	BURSASPOR",
+      "team2": "GÖasdad A.Ş.	2 - 2	FasdasdE A.Ş.",
+      "id": 3
+    },
+    {
+      "team1": "asdasdŞAKŞEHİR FK	1 - 0	BURSASPOR",
+      "team2": "GÖZTEPE A.Ş.	2 - 2	FENERBAHÇE A.Ş.",
+      "id": 4
+    }
+  ]
+}
