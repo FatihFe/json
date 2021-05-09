@@ -1,5 +1,5 @@
 {
-  "teams": [
+"teams": [
     {
       "team1": "FENERBAHÇE A.Ş.",
       "team2": "GALATASARAY A.Ş.",
@@ -21,6 +21,8 @@
       "team18": "KARDEMİR KARABÜKSPOR",
     }
     ]
+},
+{
   "fixture": [
     {
       "week": "Week 1",
