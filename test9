@@ -1,0 +1,17 @@
+{
+  "teams": [
+    {
+      "week": "Week 1",
+      "team1": "MEDİPOL BAŞAKŞEHİR FK	1 - 0	BURSASPOR",
+      "team2": "GÖZTEPE A.Ş.	2 - 2	FENERBAHÇE A.Ş.",
+      "match3": "GENÇLERBİRLİĞİ	1 - 1	KARDEMİR KARABÜKSPOR",
+      "match4": "ALANYASPOR	1 - 3	KASIMPAŞA A.Ş.",
+      "match5": "AKHİSAR BELEDİYE GENÇLİK VE SPOR	1 - 0	DEMİR GRUP SİVASSPOR",
+      "match6": "BEŞİKTAŞ A.Ş.	2 - 0	ANTALYASPOR A.Ş.",
+      "match7": "TRABZONSPOR A.Ş.	2 - 1	ATİKER KONYASPOR",
+      "match8": "EVKUR YENİ MALATYASPOR	3 - 1	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match9": "GALATASARAY A.Ş.	4 - 1	KAYSERİSPOR",
+      "id": 1
+    }
+  ]
+}
