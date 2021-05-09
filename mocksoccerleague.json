@@ -1,5 +1,5 @@
 {
-  "weeks": [
+  "teams": [
     {
       "team1": "FENERBAHÇE A.Ş.",
       "team2": "GALATASARAY A.Ş.",
@@ -19,7 +19,9 @@
       "team16": "OSMANLISPOR FUTBOL KULÜBÜ",
       "team17": "GENÇLERBİRLİĞİ",
       "team18": "KARDEMİR KARABÜKSPOR",
-    },
+    }
+    ],
+  "fixture": [
     {
       "week": "Week 1",
       "match1": "MEDİPOL BAŞAKŞEHİR FK	1 - 0	BURSASPOR",
