@@ -14,7 +14,7 @@
       "id": 1
     },
     {
-      "week": "Week 2",
+      "week": "Week 2 - First Half",
       "match1": "KASIMPAŞA A.Ş. 2 - 2	BEŞİKTAŞ A.Ş.",
       "match2": "BURSASPOR 3 - 2	ALANYASPOR",
       "match3": "OSMANLISPOR FUTBOL KULÜBÜ 1 - 3	GALATASARAY A.Ş.",
@@ -27,7 +27,7 @@
       "id": 2
     },
     {
-      "week": "Week 3",
+      "week": "Week 3 - First Half",
       "match1": "GALATASARAY A.Ş.	3 - 0	DEMİR GRUP SİVASSPOR",
       "match2": "AYTEMİZ ALANYASPOR	1 - 1	KARDEMİR KARABÜKSPOR",
       "match3": "EVKUR YENİ MALATYASPOR	1 - 1	ANTALYASPOR A.Ş.",
@@ -40,7 +40,7 @@
       "id": 3
     },
     {
-      "week": "Week 4",
+      "week": "Week 4 - First Half",
       "match1": "ATİKER KONYASPOR	0 - 2	AYTEMİZ ALANYASPOR",
       "match2": "DEMİR GRUP SİVASSPOR	0 - 2	KAYSERİSPOR",
       "match3": "KARDEMİR KARABÜKSPOR	0 - 1	BEŞİKTAŞ A.Ş.",
@@ -53,7 +53,7 @@
       "id": 4
     },
     {
-      "week": "Week 5",
+      "week": "Week 5 - First Half",
       "match1": "KAYSERİSPOR	2 - 0	ANTALYASPOR A.Ş.",
       "match2": "GALATASARAY A.Ş.	2 - 0	KASIMPAŞA A.Ş.",
       "match3": "TELESET MOBİLYA AKHİSARSPOR	2 - 1	KARDEMİR KARABÜKSPOR",
@@ -66,7 +66,7 @@
       "id": 5
     },
     {
-      "week": "Week 6",
+      "week": "Week 6 - First Half",
       "match1": "TRABZONSPOR A.Ş.	3 - 4	AYTEMİZ ALANYASPOR",
       "match2": "FENERBAHÇE A.Ş.	2 - 1	BEŞİKTAŞ A.Ş.",
       "match3": "ATİKER KONYASPOR	2 - 0	TELESET MOBİLYA AKHİSARSPOR",
@@ -79,7 +79,7 @@
       "id": 6
     },
     {
-      "week": "Week 7",
+      "week": "Week 7 - First Half",
       "match1": "TELESET MOBİLYA AKHİSARSPOR	1 - 0	FENERBAHÇE A.Ş.",
       "match2": "KAYSERİSPOR	3 - 1	BURSASPOR",
       "match3": "DEMİR GRUP SİVASSPOR	3 - 1	ANTALYASPOR A.Ş.",
@@ -92,7 +92,7 @@
       "id": 7
     },
     {
-      "week": "Week 8",
+      "week": "Week 8 - First Half",
       "match1": "GENÇLERBİRLİĞİ	2 - 1	BEŞİKTAŞ A.Ş.",
       "match2": "KARDEMİR KARABÜKSPOR	1 - 0	KAYSERİSPOR",
       "match3": "MEDİPOL BAŞAKŞEHİR FK	2 - 1	AYTEMİZ ALANYASPOR",
@@ -105,7 +105,7 @@
       "id": 8
     },
     {
-      "week": "Week 9",
+      "week": "Week 9 - First Half",
       "match1": "GÖZTEPE A.Ş.	3 - 3	AYTEMİZ ALANYASPOR",
       "match2": "ANTALYASPOR A.Ş.	2 - 1	KASIMPAŞA A.Ş.",
       "match3": "OSMANLISPOR FUTBOL KULÜBÜ	3 - 0	KARDEMİR KARABÜKSPOR",
@@ -118,7 +118,7 @@
       "id": 9
     },
     {
-      "week": "Week 10",
+      "week": "Week 10 - First Half",
       "match1": "KASIMPAŞA A.Ş.	3 - 1	GÖZTEPE A.Ş.",
       "match2": "AYTEMİZ ALANYASPOR	1 - 2	BEŞİKTAŞ A.Ş.",
       "match3": "MEDİPOL BAŞAKŞEHİR FK	2 - 1	TELESET MOBİLYA AKHİSARSPOR",
@@ -131,7 +131,7 @@
       "id": 10
     },
     {
-      "week": "Week 11",
+      "week": "Week 11 - First Half",
       "match1": "GALATASARAY A.Ş.	5 - 1	GENÇLERBİRLİĞİ",
       "match2": "KASIMPAŞA A.Ş.	2 - 2	BURSASPOR",
       "match3": "OSMANLISPOR FUTBOL KULÜBÜ	1 - 1	FENERBAHÇE A.Ş.",
@@ -144,7 +144,7 @@
       "id": 11
     },
     {
-      "week": "Week 12",
+      "week": "Week 12 - First Half",
       "match1": "BEŞİKTAŞ A.Ş. 0 - 0	TELESET MOBİLYA AKHİSARSPOR",
       "match2": "ATİKER KONYASPOR	1 - 1	ANTALYASPOR A.Ş.",
       "match3": "BURSASPOR	0 - 0	GÖZTEPE A.Ş.",
@@ -157,7 +157,7 @@
       "id": 12
     },
     {
-      "week": "Week 13",
+      "week": "Week 13 - First Half",
       "match1": "OSMANLISPOR FUTBOL KULÜBÜ	2 - 0	GENÇLERBİRLİĞİ",
       "match2": "GALATASARAY A.Ş.	2 - 0	AYTEMİZ ALANYASPOR",
       "match3": "GÖZTEPE A.Ş.	2 - 0	TELESET MOBİLYA AKHİSARSPOR",
@@ -168,6 +168,279 @@
       "match8": "KASIMPAŞA A.Ş.	2 - 1	ATİKER KONYASPOR",
       "match9": "KAYSERİSPOR	1 - 1	MEDİPOL BAŞAKŞEHİR FK",
       "id": 13
+    },
+    {
+      "week": "Week 14 - First Half",
+      "match1": "BEŞİKTAŞ A.Ş.	3 - 0	GALATASARAY A.Ş.",
+      "match2": "KARDEMİR KARABÜKSPOR	0 - 1	GÖZTEPE A.Ş.",
+      "match3": "TELESET MOBİLYA AKHİSARSPOR	0 - 0	EVKUR YENİ MALATYASPOR",
+      "match4": "MEDİPOL BAŞAKŞEHİR FK	1 - 0	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match5": "ATİKER KONYASPOR	0 - 3	BURSASPOR",
+      "match6": "FENERBAHÇE A.Ş.	4 - 2	KASIMPAŞA A.Ş.",
+      "match7": "GENÇLERBİRLİĞİ	4 - 0	DEMİR GRUP SİVASSPOR",
+      "match8": "AYTEMİZ ALANYASPOR	1 - 2	KAYSERİSPOR",
+      "match9": "TRABZONSPOR A.Ş.	3 - 0	ANTALYASPOR A.Ş.",
+      "id": 14
+    },
+    {
+      "week": "Week 15 - First Half",
+      "match1": "BURSASPOR	0 - 1	FENERBAHÇE A.Ş.",
+      "match2": "KASIMPAŞA A.Ş.	0 - 3	TRABZONSPOR A.Ş.",
+      "match3": "EVKUR YENİ MALATYASPOR	2 - 3	GÖZTEPE A.Ş.",
+      "match4": "ANTALYASPOR A.Ş.	1 - 1	GENÇLERBİRLİĞİ",
+      "match5": "GALATASARAY A.Ş.	4 - 2	TELESET MOBİLYA AKHİSARSPOR",
+      "match6": "KAYSERİSPOR	1 - 1	BEŞİKTAŞ A.Ş.",
+      "match7": "OSMANLISPOR FUTBOL KULÜBÜ	3 - 0	AYTEMİZ ALANYASPOR",
+      "match8": "DEMİR GRUP SİVASSPOR	1 - 0	MEDİPOL BAŞAKŞEHİR FK",
+      "match9": "ATİKER KONYASPOR	2 - 0	KARDEMİR KARABÜKSPOR",
+      "id": 15
+    },
+    {
+      "week": "Week 16 - First Half",
+      "match1": "GENÇLERBİRLİĞİ	0 - 0	KASIMPAŞA A.Ş.",
+      "match2": "AYTEMİZ ALANYASPOR	1 - 1	DEMİR GRUP SİVASSPOR",
+      "match3": "TRABZONSPOR A.Ş.	1 - 0	BURSASPOR",
+      "match4": "EVKUR YENİ MALATYASPOR	2 - 1	GALATASARAY A.Ş.",
+      "match5": "BEŞİKTAŞ A.Ş.	5 - 1	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match6": "TELESET MOBİLYA AKHİSARSPOR	0 - 2	KAYSERİSPOR",
+      "match7": "MEDİPOL BAŞAKŞEHİR FK	4 - 1	ANTALYASPOR A.Ş.",
+      "match8": "FENERBAHÇE A.Ş.	2 - 0	KARDEMİR KARABÜKSPOR",
+      "match9": "GÖZTEPE A.Ş.	1 - 0	ATİKER KONYASPOR",
+      "id": 16
+    },
+    {
+      "week": "Week 17 - First Half",
+      "match1": "ANTALYASPOR A.Ş.	3 - 1	AYTEMİZ ALANYASPOR",
+      "match2": "DEMİR GRUP SİVASSPOR	2 - 1	BEŞİKTAŞ A.Ş.",
+      "match3": "ATİKER KONYASPOR	1 - 1	FENERBAHÇE A.Ş.",
+      "match4": "BURSASPOR	1 - 1	GENÇLERBİRLİĞİ",
+      "match5": "KASIMPAŞA A.Ş.	1 - 2	MEDİPOL BAŞAKŞEHİR FK",
+      "match6": "GALATASARAY A.Ş.	3 - 1	GÖZTEPE A.Ş.",
+      "match7": "KARDEMİR KARABÜKSPOR	1 - 1	TRABZONSPOR A.Ş.",
+      "match8": "KAYSERİSPOR	0 - 1	EVKUR YENİ MALATYASPOR",
+      "match9": "OSMANLISPOR FUTBOL KULÜBÜ	3 - 2	TELESET MOBİLYA AKHİSARSPOR",
+      "id": 17
+    },
+    {
+      "week": "Week 18 - Second Half",
+      "match1": "KASIMPAŞA A.Ş.	3 - 2	AYTEMİZ ALANYASPOR",
+      "match2": "FENERBAHÇE A.Ş.	2 - 1	GÖZTEPE A.Ş.",
+      "match3": "KARDEMİR KARABÜKSPOR	0 - 2	GENÇLERBİRLİĞİ",
+      "match4": "OSMANLISPOR FUTBOL KULÜBÜ	0 - 0	EVKUR YENİ MALATYASPOR",
+      "match5": "BURSASPOR	0 - 3	MEDİPOL BAŞAKŞEHİR FK",
+      "match6": "ATİKER KONYASPOR	2 - 2	TRABZONSPOR A.Ş.",
+      "match7": "DEMİR GRUP SİVASSPOR	1 - 1	TELESET MOBİLYA AKHİSARSPOR",
+      "match8": "ANTALYASPOR A.Ş.	1 - 2	BEŞİKTAŞ A.Ş.",
+      "match9": "KAYSERİSPOR	1 - 3	GALATASARAY A.Ş.",
+      "id": 18
+    },
+    {
+      "week": "Week 19 - Second Half",
+      "match1": "GENÇLERBİRLİĞİ	2 - 1	ATİKER KONYASPOR",
+      "match2": "BEŞİKTAŞ A.Ş.	2 - 1	KASIMPAŞA A.Ş.",
+      "match3": "GÖZTEPE A.Ş.	1 - 1	KAYSERİSPOR",
+      "match4": "AYTEMİZ ALANYASPOR	3 - 1	BURSASPOR",
+      "match5": "GALATASARAY A.Ş.	2 - 0	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match6": "TRABZONSPOR A.Ş.	1 - 1	FENERBAHÇE A.Ş.",
+      "match7": "EVKUR YENİ MALATYASPOR	1 - 0	DEMİR GRUP SİVASSPOR",
+      "match8": "TELESET MOBİLYA AKHİSARSPOR	1 - 1	ANTALYASPOR A.Ş.",
+      "match9": "MEDİPOL BAŞAKŞEHİR FK	5 - 0	KARDEMİR KARABÜKSPOR",
+      "id": 19
+    },
+    {
+      "week": "Week 20 - Second Half",
+      "match1": "BURSASPOR	2 - 2	BEŞİKTAŞ A.Ş.",
+      "match2": "FENERBAHÇE A.Ş.	2 - 2	GENÇLERBİRLİĞİ",
+      "match3": "KARDEMİR KARABÜKSPOR	1 - 0	AYTEMİZ ALANYASPOR",
+      "match4": "ANTALYASPOR A.Ş.	3 - 1	EVKUR YENİ MALATYASPOR",
+      "match5": "KASIMPAŞA A.Ş.	2 - 0	TELESET MOBİLYA AKHİSARSPOR",
+      "match6": "OSMANLISPOR FUTBOL KULÜBÜ	0 - 1	KAYSERİSPOR",
+      "match7": "ATİKER KONYASPOR	1 - 1	MEDİPOL BAŞAKŞEHİR FK",
+      "match8": "DEMİR GRUP SİVASSPOR	2 - 1	GALATASARAY A.Ş.",
+      "match9": "TRABZONSPOR A.Ş.	0 - 0	GÖZTEPE A.Ş.",
+      "id": 20
+    },
+    {
+      "week": "Week 21 - Second Half",
+      "match1": "EVKUR YENİ MALATYASPOR	1 - 1	KASIMPAŞA A.Ş.",
+      "match2": "BEŞİKTAŞ A.Ş.	5 - 0	KARDEMİR KARABÜKSPOR",
+      "match3": "GÖZTEPE A.Ş.	3 - 3	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match4": "GENÇLERBİRLİĞİ	0 - 0	TRABZONSPOR A.Ş.",
+      "match5": "AYTEMİZ ALANYASPOR	1 - 2	ATİKER KONYASPOR",
+      "match6": "MEDİPOL BAŞAKŞEHİR FK	0 - 2	FENERBAHÇE A.Ş.",
+      "match7": "TELESET MOBİLYA AKHİSARSPOR	1 - 0	BURSASPOR",
+      "match8": "KAYSERİSPOR	1 - 1	DEMİR GRUP SİVASSPOR",
+      "match9": "GALATASARAY A.Ş.	3 - 0	ANTALYASPOR A.Ş.",
+      "id": 21
+    },
+    {
+      "week": "Week 22 - Second Half",
+      "match1": "ATİKER KONYASPOR	1 - 1	BEŞİKTAŞ A.Ş.",
+      "match2": "ANTALYASPOR A.Ş.	2 - 1	KAYSERİSPOR",
+      "match3": "FENERBAHÇE A.Ş.	3 - 0	AYTEMİZ ALANYASPOR",
+      "match4": "DEMİR GRUP SİVASSPOR	3 - 2	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match5": "TRABZONSPOR A.Ş.	0 - 1	MEDİPOL BAŞAKŞEHİR FK",
+      "match6": "KASIMPAŞA A.Ş.	2 - 1	GALATASARAY A.Ş.",
+      "match7": "KARDEMİR KARABÜKSPOR	0 - 3	TELESET MOBİLYA AKHİSARSPOR",
+      "match8": "BURSASPOR	0 - 0	EVKUR YENİ MALATYASPOR",
+      "match9": "GENÇLERBİRLİĞİ	3 - 0	GÖZTEPE A.Ş.",
+      "id": 22
+    },
+    {
+      "week": "Week 23 - Second Half",
+      "match1": "GALATASARAY A.Ş.	5 - 0	BURSASPOR",
+      "match2": "TELESET MOBİLYA AKHİSARSPOR	3 - 0	ATİKER KONYASPOR",
+      "match3": "AYTEMİZ ALANYASPOR	1 - 2	TRABZONSPOR A.Ş.",
+      "match4": "KAYSERİSPOR	3 - 2	KASIMPAŞA A.Ş.",
+      "match5": "EVKUR YENİ MALATYASPOR	3 - 1	KARDEMİR KARABÜKSPOR",
+      "match6": "OSMANLISPOR FUTBOL KULÜBÜ	0 - 0	ANTALYASPOR A.Ş.",
+      "match7": "GÖZTEPE A.Ş.	1 - 0	DEMİR GRUP SİVASSPOR",
+      "match8": "BEŞİKTAŞ A.Ş.	3 - 1	FENERBAHÇE A.Ş.",
+      "match9": "MEDİPOL BAŞAKŞEHİR FK	1 - 1	GENÇLERBİRLİĞİ",
+      "id": 23
+    },
+    {
+      "week": "Week 24 - Second Half",
+      "match1": "BURSASPOR	1 - 0	KAYSERİSPOR",
+      "match2": "MEDİPOL BAŞAKŞEHİR FK	2 - 0	GÖZTEPE A.Ş.",
+      "match3": "KASIMPAŞA A.Ş.	1 - 1	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match4": "KARDEMİR KARABÜKSPOR	0 - 7	GALATASARAY A.Ş.",
+      "match5": "ANTALYASPOR A.Ş.	1 - 4	DEMİR GRUP SİVASSPOR",
+      "match6": "FENERBAHÇE A.Ş.	2 - 3	TELESET MOBİLYA AKHİSARSPOR",
+      "match7": "GENÇLERBİRLİĞİ	0 - 1	AYTEMİZ ALANYASPOR",
+      "match8": "ATİKER KONYASPOR	0 - 1	EVKUR YENİ MALATYASPOR",
+      "match9": "TRABZONSPOR A.Ş.	0 - 2	BEŞİKTAŞ A.Ş.",
+      "id": 24
+    },
+    {
+      "week": "Week 25 - Second Half",
+      "match1": "AYTEMİZ ALANYASPOR	4 - 1	MEDİPOL BAŞAKŞEHİR FK",
+      "match2": "BEŞİKTAŞ A.Ş.	1 - 0	GENÇLERBİRLİĞİ",
+      "match3": "OSMANLISPOR FUTBOL KULÜBÜ	2 - 1	BURSASPOR",
+      "match4": "DEMİR GRUP SİVASSPOR	2 - 2	KASIMPAŞA A.Ş.",
+      "match5": "KAYSERİSPOR	3 - 2	KARDEMİR KARABÜKSPOR",
+      "match6": "GÖZTEPE A.Ş.	2 - 1	ANTALYASPOR A.Ş.",
+      "match7": "EVKUR YENİ MALATYASPOR	0 - 2	FENERBAHÇE A.Ş.",
+      "match8": "GALATASARAY A.Ş.	2 - 1	ATİKER KONYASPOR",
+      "match9": "TELESET MOBİLYA AKHİSARSPOR	1 - 3	TRABZONSPOR A.Ş.",
+      "id": 25
+    },
+    {
+      "week": "Week 26 - Second Half",
+      "match1": "KARDEMİR KARABÜKSPOR	0 - 4	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match2": "KASIMPAŞA A.Ş.	2 - 3	ANTALYASPOR A.Ş.",
+      "match3": "GENÇLERBİRLİĞİ	1 - 1	TELESET MOBİLYA AKHİSARSPOR",
+      "match4": "BURSASPOR	1 - 0	DEMİR GRUP SİVASSPOR",
+      "match5": "FENERBAHÇE A.Ş.	0 - 0	GALATASARAY A.Ş.",
+      "match6": "AYTEMİZ ALANYASPOR	1 - 1	GÖZTEPE A.Ş.",
+      "match7": "ATİKER KONYASPOR	2 - 0	KAYSERİSPOR",
+      "match8": "MEDİPOL BAŞAKŞEHİR FK	1 - 0	BEŞİKTAŞ A.Ş.",
+      "match9": "TRABZONSPOR A.Ş.	4 - 1	EVKUR YENİ MALATYASPOR",
+      "id": 26
+    },
+    {
+      "week": "Week 27 - Second Half",
+      "match1": "DEMİR GRUP SİVASSPOR	1 - 0	KARDEMİR KARABÜKSPOR",
+      "match2": "BEŞİKTAŞ A.Ş.	1 - 0	AYTEMİZ ALANYASPOR",
+      "match3": "EVKUR YENİ MALATYASPOR	4 - 1	GENÇLERBİRLİĞİ",
+      "match4": "ANTALYASPOR A.Ş.	2 - 0	BURSASPOR",
+      "match5": "OSMANLISPOR FUTBOL KULÜBÜ	0 - 0	ATİKER KONYASPOR",
+      "match6": "GALATASARAY A.Ş.	2 - 1	TRABZONSPOR A.Ş.",
+      "match7": "TELESET MOBİLYA AKHİSARSPOR	1 - 2	MEDİPOL BAŞAKŞEHİR FK",
+      "match8": "GÖZTEPE A.Ş.	0 - 2	KASIMPAŞA A.Ş.",
+      "match9": "KAYSERİSPOR	0 - 5	FENERBAHÇE A.Ş.",
+      "id": 27
+    },
+    {
+      "week": "Week 28 - Second Half",
+      "match1": "MEDİPOL BAŞAKŞEHİR FK	1 - 0	EVKUR YENİ MALATYASPOR",
+      "match2": "TRABZONSPOR A.Ş.	4 - 0	KAYSERİSPOR",
+      "match3": "KARDEMİR KARABÜKSPOR	1 - 2	ANTALYASPOR A.Ş.",
+      "match4": "BEŞİKTAŞ A.Ş.	5 - 1	GÖZTEPE A.Ş.",
+      "match5": "FENERBAHÇE A.Ş.	2 - 0	OSMANLISPOR FUTBOL KULÜBÜ",
+      "match6": "BURSASPOR	0 - 1	KASIMPAŞA A.Ş.",
+      "match7": "ATİKER KONYASPOR	5 - 0	DEMİR GRUP SİVASSPOR",
+      "match8": "AYTEMİZ ALANYASPOR	3 - 1	TELESET MOBİLYA AKHİSARSPOR",
+      "match9": "GENÇLERBİRLİĞİ	1 - 0	GALATASARAY A.Ş.",
+      "id": 28
+    },
+    {
+      "week": "Week 29 - Second Half",
+      "match1": "TELESET MOBİLYA AKHİSARSPOR	0 - 3	BEŞİKTAŞ A.Ş.",
+      "match2": "DEMİR GRUP SİVASSPOR	1 - 2	FENERBAHÇE A.Ş.",
+      "match3": "EVKUR YENİ MALATYASPOR	1 - 1	AYTEMİZ ALANYASPOR",
+      "match4": "KASIMPAŞA A.Ş.	2 - 0	KARDEMİR KARABÜKSPOR",
+      "match5": "ANTALYASPOR A.Ş.  -  ATİKER KONYASPOR",
+      "match6": "GÖZTEPE A.Ş.  -  BURSASPOR",
+      "match7": "GALATASARAY A.Ş.  -  MEDİPOL BAŞAKŞEHİR FK",
+      "match8": "KAYSERİSPOR  -  GENÇLERBİRLİĞİ",
+      "match9": "OSMANLISPOR FUTBOL KULÜBÜ  -  TRABZONSPOR A.Ş.",
+      "id": 29
+    },
+    {
+      "week": "Week 30 - Second Half",
+      "match1": "MEDİPOL BAŞAKŞEHİR FK  -  KAYSERİSPOR",
+      "match2": "TRABZONSPOR A.Ş.  -  DEMİR GRUP SİVASSPOR",
+      "match3": "KARDEMİR KARABÜKSPOR  -  BURSASPOR",
+      "match4": "AYTEMİZ ALANYASPOR  -  GALATASARAY A.Ş.",
+      "match5": "GENÇLERBİRLİĞİ  -  OSMANLISPOR FUTBOL KULÜBÜ",
+      "match6": "TELESET MOBİLYA AKHİSARSPOR  -  GÖZTEPE A.Ş.",
+      "match7": "ATİKER KONYASPOR  -  KASIMPAŞA A.Ş.",
+      "match8": "BEŞİKTAŞ A.Ş.  -  EVKUR YENİ MALATYASPOR",
+      "match9": "FENERBAHÇE A.Ş.  -  ANTALYASPOR A.Ş.",
+      "id": 30
+    },
+    {
+      "week": "Week 31 - Second Half",
+      "match1": "GÖZTEPE A.Ş.  -  KARDEMİR KARABÜKSPOR",
+      "match2": "KAYSERİSPOR  -  AYTEMİZ ALANYASPOR",
+      "match3": "DEMİR GRUP SİVASSPOR  -  GENÇLERBİRLİĞİ",
+      "match4": "ANTALYASPOR A.Ş.  -  TRABZONSPOR A.Ş.",
+      "match5": "KASIMPAŞA A.Ş.  -  FENERBAHÇE A.Ş.",
+      "match6": "GALATASARAY A.Ş.  -  BEŞİKTAŞ A.Ş.",
+      "match7": "OSMANLISPOR FUTBOL KULÜBÜ  -  MEDİPOL BAŞAKŞEHİR FK",
+      "match8": "EVKUR YENİ MALATYASPOR  -  TELESET MOBİLYA AKHİSARSPOR",
+      "match9": "BURSASPOR  -  ATİKER KONYASPOR",
+      "id": 31
+    },
+    {
+      "week": "Week 32 - Second Half",
+      "match1": "MEDİPOL BAŞAKŞEHİR FK  -  DEMİR GRUP SİVASSPOR",
+      "match2": "TRABZONSPOR A.Ş.  -  KASIMPAŞA A.Ş.",
+      "match3": "KARDEMİR KARABÜKSPOR  -  ATİKER KONYASPOR",
+      "match4": "AYTEMİZ ALANYASPOR  -  OSMANLISPOR FUTBOL KULÜBÜ",
+      "match5": "TELESET MOBİLYA AKHİSARSPOR  -  GALATASARAY A.Ş.",
+      "match6": "FENERBAHÇE A.Ş.  -  BURSASPOR",
+      "match7": "GENÇLERBİRLİĞİ  -  ANTALYASPOR A.Ş.",
+      "match8": "BEŞİKTAŞ A.Ş.  -  KAYSERİSPOR",
+      "match9": "GÖZTEPE A.Ş.  -  EVKUR YENİ MALATYASPOR",
+      "id": 32
+    },
+    {
+      "week": "Week 33 - Second Half",
+      "match1": "ANTALYASPOR A.Ş.  -  MEDİPOL BAŞAKŞEHİR FK",
+      "match2": "KASIMPAŞA A.Ş.  -  GENÇLERBİRLİĞİ",
+      "match3": "ATİKER KONYASPOR  -  GÖZTEPE A.Ş.",
+      "match4": "GALATASARAY A.Ş.  -  EVKUR YENİ MALATYASPOR",
+      "match5": "BURSASPOR  -  TRABZONSPOR A.Ş.",
+      "match6": "OSMANLISPOR FUTBOL KULÜBÜ  -  BEŞİKTAŞ A.Ş.",
+      "match7": "DEMİR GRUP SİVASSPOR  -  AYTEMİZ ALANYASPOR",
+      "match8": "KAYSERİSPOR  -  TELESET MOBİLYA AKHİSARSPOR",
+      "match9": "KARDEMİR KARABÜKSPOR  -  FENERBAHÇE A.Ş.",
+      "id": 33
+    },
+    {
+      "week": "Week 34 - Second Half",
+      "match1": "GENÇLERBİRLİĞİ  -  BURSASPOR",
+      "match2": "TELESET MOBİLYA AKHİSARSPOR  -  OSMANLISPOR FUTBOL KULÜBÜ",
+      "match3": "EVKUR YENİ MALATYASPOR  -  KAYSERİSPOR",
+      "match4": "AYTEMİZ ALANYASPOR  -  ANTALYASPOR A.Ş.",
+      "match5": "TRABZONSPOR A.Ş.  -  KARDEMİR KARABÜKSPOR",
+      "match6": "MEDİPOL BAŞAKŞEHİR FK  -  KASIMPAŞA A.Ş.",
+      "match7": "BEŞİKTAŞ A.Ş.  -  DEMİR GRUP SİVASSPOR",
+      "match8": "FENERBAHÇE A.Ş.  -  ATİKER KONYASPOR",
+      "match9": "GÖZTEPE A.Ş.  -  GALATASARAY A.Ş.",
+      "id": 34
     }
   ]
 }
